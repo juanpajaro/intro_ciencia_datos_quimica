@@ -1,0 +1,5 @@
+instrucciones clase de introducción a la ciencia de datos química farmacéutica
+1. basada en las distribuciones de las drogras, sexo, presion sanguinea y demas dame la distribución de los niveles de colesterol. Generame el codigo en una sola celda.
+2. basada en los dritribuciones de las drogas, sexo, presión sanguinea y demas dame la distribución de sexo según el tipo de droga. Generame el codigo en una sola celda.
+3. basada en las distribuciones de drogras, sexo, presión sanguinea y demás dame la distribución de la presion sanguinea segun los niveles de colesterol. Generame el codigo en una sola celda.
+4. Generama un grafico de puntos donde el eje de las "y" sea Na_to_K y en el eje de las "x" sea la edad. Diferencia los colores de puntos entre sexo. Generame el codigo en una sola celda.
